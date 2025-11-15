@@ -1,6 +1,6 @@
 ## **卓越** 👋
 
-[]( なんか表示されなくてダサいのでコメントアウト
+<!--  なんか表示されなくてダサいのでコメントアウト
 <table>
   <tr>
     <td align="center">
@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-<br></br>)
+<br></br> --!>
 
 <div style="text-align: center;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
